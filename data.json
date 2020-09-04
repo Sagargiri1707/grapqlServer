@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Sagar Giri",
+      "email": "LODALASSUN",
+      "age": 12
+    },
+    {
+      "id": "2",
+      "name": "Sagar Giri2",
+      "email": "LODALASSUN2",
+      "age": 122
+    },
+    {
+      "id": "3",
+      "name": "Sagar Giri3",
+      "email": "LODALASSUN3",
+      "age": 123
+    },
+    {
+      "id": "4",
+      "name": "Sagar Giri4",
+      "email": "LODALASSUN4",
+      "age": 124
+    },
+    {
+      "name": "SA",
+      "email": "dlld",
+      "age": 12,
+      "id": "PlaJKAn"
+    },
+    {
+      "name": "SA",
+      "email": "dlld",
+      "age": 12,
+      "id": "rnbp--V"
+    }
+  ]
+}
